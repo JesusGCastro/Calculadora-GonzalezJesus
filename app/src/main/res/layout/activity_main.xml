@@ -10,7 +10,7 @@
 
     <!-- TextView para mostrar resultados -->
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/display"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="0"
