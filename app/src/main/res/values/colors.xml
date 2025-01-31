@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color> <!-- Negro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+    <color name="orange">#FF9500</color> <!-- Naranja, como el botón de función -->
+    <color name="red">#FF3B30</color> <!-- Rojo, para borrar -->
+    <color name="gray_light">#D1D1D6</color> <!-- Gris claro, para botones normales -->
+    <color name="gray_dark">#AEAEB2</color> <!-- Gris oscuro, para botones de operadores -->
 </resources>
